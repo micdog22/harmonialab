@@ -1,4 +1,4 @@
-# HarmoniaLab — Key, Chords & Sections Analyzer
+# HarmoniaLab - Key, Chords & Sections Analyzer
 
 HarmoniaLab estima tom/escala, sequência de acordes e segmenta a música em seções prováveis. Exporta relatório HTML, diagrama de acordes e MIDI de camadas de apoio.
 
